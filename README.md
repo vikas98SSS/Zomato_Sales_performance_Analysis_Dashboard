@@ -67,7 +67,7 @@ A heartfelt **thank you to my mentor [Sandeep Sappal Sir]** for his continuous g
 
 ## 🧰 Tools Used
 
-- Power BI / Excel / Tableau *(update accordingly)*
+- Power BI 
 - Data Cleaning
 - DAX / Formulas
 - Data Visualization
